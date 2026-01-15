@@ -1,0 +1,8 @@
+{
+  "name": "VisionQuest: Comedy Pulse",
+  "description": "Specialized AI video analyst for comedians. Track laughter intensity, pinpoint punchlines, and get data-driven delivery feedback using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
